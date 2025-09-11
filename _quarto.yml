@@ -1,5 +1,6 @@
 project:
   type: website
+  output-dir: docs
 
 website:
   title: "Jennifer Flake"
@@ -16,6 +17,5 @@ format:
       - brand
     css: styles.css
     toc: true
-
 
 
