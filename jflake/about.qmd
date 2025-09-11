@@ -1,5 +1,0 @@
----
-title: "About"
----
-
-About this site: I hope to add completed projects to this site in the future.
