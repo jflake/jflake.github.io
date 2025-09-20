@@ -1,0 +1,46 @@
+---
+title: "521 Lab 3 Group 43"
+author: "Luis, Grigory, Vienne, Jennifer"
+format: revealjs
+---
+
+# Grigory
+
+- Has a girlfriend from Canada
+- Lived in San Francisco
+- Is originally from Armenia
+
+# Luis 
+
+- Studied public policy 
+- Lived abroad three times
+
+# Jennifer
+
+-   From Seattle
+-   Returning to school after raising two kids
+
+# Vienne 
+
+- Enjoys the MDS program 
+- Is a supportive team member
+
+
+
+## We are learning to include code in our slides
+
+-Here is the classic "Hello World!" using the R print statement
+
+```{r}
+print("Hello World!")
+
+```
+
+## Here is another basic code block using R
+-we are now adding x + y and using print to display the result
+```{r}
+x <- 1
+y<-2
+print (x + y)
+```
+
